@@ -1,5 +1,5 @@
 # Mutual-Information-ICA
-Independent component analysis and related techniques based on mutual information
+Independent component analysis and related techniques based on mutual information.
 
 The original code used primarily in the following papers
 
